@@ -1,0 +1,6 @@
+@article{REPO-320,
+    author = "Zhao Kang, Chong Peng, Qiang Cheng",
+    journal = "AAAI",
+    title = "{Top-N Recommender System via Matrix Completion}",
+    year = "2016"
+}
